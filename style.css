@@ -35,3 +35,10 @@ section{
         width: 100%;
         margin: 0 auto;
 }
+.popular{
+    width: 100%;
+}
+.popular div{
+    max-width: 400px;
+    width: 100%;
+}
